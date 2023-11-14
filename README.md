@@ -10,7 +10,8 @@ I'm a passionate Full-Stack Developer and currently a student at 1337. Welcome t
 
 -   <img align ="center" src="https://badge.mediaplus.ma/greenbinary/edraidry" width="500" >
 ## Skills
-<p align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdidraid](https://github.com/anuraghazra/github-readme-stats)<p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=mahdidraid&show_icons=true&theme=gotham" alt="Mahdi Draidry's GitHub Stats" />
 </p>
 ### Languages
