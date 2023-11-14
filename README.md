@@ -8,6 +8,7 @@ I'm a passionate Full-Stack Developer and currently a student at 1337. Welcome t
 - 💬 Ask me about anything related to web development or programming in general.
 - 📫 Connect with me on [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/mahdi-draidrya)
 
+-   <img align ="center" src="https://badge.mediaplus.ma/greenbinary/edraidry" width="350" >
 ## Skills
 
 ### Languages
