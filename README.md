@@ -1,16 +1,59 @@
-### Hi there 👋
+# Hi there! 👋 I'm El Mahdi Draidry
 
-<!--
-**mahdidraid/mahdidraid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full-Stack Developer and currently a student at 1337. Welcome to my GitHub profile! 😊
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning and building projects in various technologies.
+- 💬 Ask me about anything related to web development or programming in general.
+- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/mahdi-draidrya)
+
+## Skills
+
+### Languages
+
+- C
+- C++
+- Python
+- JavaScript
+- TypeScript
+
+### Frontend
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Bootstrap
+- Tailwind CSS
+
+### Backend
+
+- Django
+- Node.js
+- Express.js
+- Flask
+- MongoDB
+- PostgreSQL
+
+### DevOps
+
+- Docker
+- AWS
+
+### Tools
+
+- Git
+- Bash
+
+## Projects
+
+- [Project 1](#) - Description of the project.
+- [Project 2](#) - Description of the project.
+- [Project 3](#) - Description of the project.
+
+## Let's Connect
+
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/mahdi-draidrya). I'm always open to interesting projects and collaborations!
+
+Happy coding! 👨‍💻
